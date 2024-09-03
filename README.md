@@ -1,1 +1,1 @@
-# ClearWidgy
+# CleanWidgy
