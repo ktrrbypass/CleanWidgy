@@ -3,4 +3,7 @@ A tool to remove the name label from the widgy app. Based on [Nugget](https://gi
 
 ## Usage
 - Install pymobiledevice3 (`pip install pymobiledevice3`)
+- Download this repo as a zip
+- Unzip
 - Run `app.py`
+- Profit
