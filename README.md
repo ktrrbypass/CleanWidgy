@@ -7,3 +7,6 @@ A tool to remove the name label from the widgy app. Based on [Nugget](https://gi
 - Unzip
 - Run `app.py`
 - Profit
+
+### Disclaimer
+This project is intended for educational purposes only. The code provided in this repository is designed to demonstrate the concepts of software exploitation and system vulnerabilities within a controlled, legal, and ethical environment.
