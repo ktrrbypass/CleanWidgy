@@ -1,6 +1,6 @@
 # CleanWidgy
 - A tool to remove the name label from the widgy app. Based on [Nugget](https://github.com/leminlimez/Nugget). Works up to iOS 18.0db8.
-- Exploit files from @leminlimez
+- Exploit files from @leminlimez in [Cowabunga](https://discord.gg/cowabunga)
 
 ## Usage
 - Make sure to disable find my iphone first
