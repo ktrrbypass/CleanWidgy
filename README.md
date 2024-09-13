@@ -5,7 +5,7 @@
 ## Usage
 - Make sure to disable find my iphone first
 - Install pymobiledevice3 (`pip install pymobiledevice3`)
-- [Download](https://github.com/ktrrbypass/CleanWidgy/archive/refs/heads/main.zip) this repo as a zip [Download](https://github.com/ktrrbypass/CleanWidgy/archive/refs/heads/main.zip)
+- [Download](https://github.com/ktrrbypass/CleanWidgy/archive/refs/heads/main.zip) this repo as a zip
 - Unzip
 - Run `app.py`
 - Profit
