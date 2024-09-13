@@ -11,7 +11,7 @@
 - Profit
 
 ### Note
-- This doesn't actuallt work yet due to springboard cache.
+- This doesn't actually work yet due to springboard cache.
 - Im working on a method to clear it tho
 
 ### Disclaimer
