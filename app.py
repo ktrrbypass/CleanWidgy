@@ -41,11 +41,10 @@ def main():
     \___//_/ \__/ \_,_//_//_/|__/|__//_/ \_,_/ \_, / \_, / 
                                               /___/ /___/                                                                      
                         Public Release
-
-                      Inspired by Nugget 
+ 
                      Written by KTRRBypass
           Special thanks to Lrdsnow, Little_34306 & Skadz
-                WARNING THIS ONLY WORKS ON 3.4.2
+                WARNING THIS ONLY WORKS ON 4.0.2
     ''')
 
     file_path = Path('Info.plist')
